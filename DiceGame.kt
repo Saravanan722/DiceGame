@@ -28,7 +28,7 @@ class DiceGame(var playerCount: Int) {
             }
 
         } else {
-            TODO("The range is over only play 6 or 6 below ")
+            TODO("The range is over only play 6 or 6 below")
         }
     }
 
